@@ -1,0 +1,59 @@
+{
+  "list": [
+    {
+      "id": 0,
+      "name": "",
+      "date": "",
+      "time": "",
+      "location": {
+        "address": "",
+        "city": "",
+        "country": ""
+      }
+    },
+    {
+      "id": 1,
+      "name": "Karácsony",
+      "date": "24/12/2021",
+      "time": "06:00 pm",
+      "location": {
+        "address": "Tímár utca 9/a",
+        "city": "Budapest",
+        "country": "Magyarország"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Húsvét",
+      "date": "1/4/2021",
+      "time": "08:00 am",
+      "location": {
+        "address": "Húsvét-szigetek",
+        "city": "Budapest",
+        "country": "Magyarország"
+      }
+    },
+    {
+      "id": 3,
+      "name": "2022 újév",
+      "date": "1/1/2022",
+      "time": "00:00 am",
+      "location": {
+        "address": "Tímár utca 9/a",
+        "city": "Budapest",
+        "country": "Magyarország"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Nyaralás",
+      "date": "1/6/2025",
+      "time": "09:00 am",
+      "location": {
+        "address": "járda-szigetek",
+        "city": "Budapest",
+        "country": "Magyarország"
+      }
+    }
+  ]
+}
